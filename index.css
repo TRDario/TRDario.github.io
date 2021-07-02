@@ -1,6 +1,5 @@
 body {
 	background-color: #B3CBE5;
-	padding-top: 5%;
 }
 
 .header {
@@ -27,6 +26,10 @@ body {
 	
 	border-style: none dashed none none;
 	border-width: 2px;
+}
+
+.main {
+	padding-top: 4%;
 }
 
 .center {
